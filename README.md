@@ -4,8 +4,6 @@ This is a ROS package of [DeeplabV3+](https://arxiv.org/abs/1802.02611). Most of
 
 ## Requirements
 
----
-
 - ROS kinetic
 - TensorFlow 1.14.0
 
@@ -13,13 +11,9 @@ For more information, please visit this [link](https://github.com/tensorflow/mod
 
 ## Training
 
----
-
 This repositry doesn't contain the code for training. If you want to train the model on your class definition or dataset, please refer to this [link](https://www.programmersought.com/article/4188126074/).
 
 ## Getting Started
-
----
 
 Clone this repository to the src folder of your catkin workspace, build your workspace and source it.
 
@@ -35,15 +29,11 @@ Clone this repository to the src folder of your catkin workspace, build your wor
 
 ## Example Usage
 
----
-
 ```bash
    roslaunch deeplabv3plus_ros example.launch
 ```
 
 ## ROS Node
-
----
 
 ### Parameters:
 
