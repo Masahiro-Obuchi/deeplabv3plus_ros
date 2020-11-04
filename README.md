@@ -5,7 +5,9 @@ This is a ROS package of [DeeplabV3+](https://arxiv.org/abs/1802.02611). Most of
 ## Requirements
 
 - ROS kinetic
-- TensorFlow 1.14.0
+- TensorFlow >= 1.14.0
+- CUDA >= 10.0
+- cuDNN >= 7.4.1
 
 For more information, please visit this [link](https://github.com/tensorflow/models/blob/master/research/deeplab/g3doc/installation.md).
 
