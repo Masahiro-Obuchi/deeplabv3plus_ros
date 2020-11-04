@@ -5,6 +5,8 @@
   <description>The ROS Package of DeeplabV3+ for Segmentation</description>
 
   <maintainer email="o.masahiro0328@gmail.com">Masahiro Obuchi</maintainer>
+  
+  <author email="o.masahiro0328@gmail.com">Masahiro Obuchi</author>
 
   <license>BSD</license>
 
